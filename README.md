@@ -1,1 +1,1 @@
-# Coursera-JHU---HTML-CSS-JS-course
+# Coursera JHU: HTML-CSS-JS Course
